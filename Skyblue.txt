@@ -1,0 +1,43 @@
+<html>
+<head><title></title>
+</head>
+<body bgcolor=Skyblue>
+<font size=6><center>
+<br><br><br>
+<a href="azul.html" target="Blanco.html">Pagina azul</a>
+<br><br><br>
+<a href="Verde.html" target="Blanco.html">Pagina verde</a>
+<br><br><br>
+<a href="Amarillo.html" target="Blanco.html">Pagina amarilla</a>
+<br><br><br>
+<a href="HTML.html" target="Blanco.html">primera pagina</a>
+<br><br><br>
+<a href="POEMAvale.html" target="Blanco.html">poema</a>
+<br><br><br>
+<a href="lismarq.html" target="Blanco.html">Marquesinas</a>
+<br><br><br>
+<a href="BANDAS.html" target="Blanco.html">Bandas</a>
+<br><br><br>
+<a href=".html" target="Blanco.html"></a>
+<br><br><br>
+<a href=".html" target="Blanco.html"></a>
+<br><br><br>
+<a href=".html" target="Blanco.html"></a>
+<br><br><br>
+<a href="Las fases de la luna.html" target="Blanco.html"></a>
+<br><br><br>
+<a href=".html" target="Blanco.html"></a>
+<br><br><br>
+
+
+
+
+
+
+
+</center></font>
+
+
+
+</body>
+</html>
